@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEI,OAAc;EACd,UAAU,EAHL,GAAG;;AAER,UAAc;EACd,UAAU,EAHD,MAAM;;AAEf,QAAc;EACd,UAAU,EAHM,IAAI;;AAEpB,QAAc;EACd,UAAU,EAHW,IAAI;;AAEzB,UAAc;EACd,UAAU,EAHgB,MAAM",
+"sources": ["../src/sass/list.scss"],
+"names": [],
+"file": "list.css"
+}
